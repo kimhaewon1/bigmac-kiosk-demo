@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.markdown("Kim Haewon")
+st.markdown("Kim Haewon / 21800198")
 
 st.title("Order")
 
